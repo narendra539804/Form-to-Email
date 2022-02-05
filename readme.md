@@ -14,3 +14,11 @@
 <li>and then We get script copy that and paste in the // form action=".Link should be here."//s</li>
 
 </ol>
+
+<h4>Using the template in index.html in this repo, create your own html file with the basic form. (save the file)
+
+⚠️ If you're already trying to use your own form by this step rather than the example one in this repo:
+
+Each of your form elements must have a name attribute equal to that of your column name in the Google sheet
+The form's class must be gform, i.e. <form class="gform">
+</h4>
