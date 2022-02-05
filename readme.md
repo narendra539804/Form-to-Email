@@ -9,8 +9,8 @@
 <ol>
 <li>Then Click on the make a copy</li>
 <li>Click on the Extensions button on top and move to <strong>APPS SCRIPT</strong></li>
-<li>Paste the Code From the GoogleAppScript.js to that file(Change to your mail)</li>
+<li>Paste the Code From the GoogleAppScript.js to that file(Change to your mail in the code)</li>
 <li>Click on Deployment</li>
-<li>and then We get script copy that and paste in the form action=".Link should be here."</li>
+<li>and then We get script copy that and paste in the // form action=".Link should be here."//s</li>
 
 </ol>
