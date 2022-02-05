@@ -20,5 +20,6 @@
 ⚠️ If you're already trying to use your own form by this step rather than the example one in this repo:
 
 Each of your form elements must have a name attribute equal to that of your column name in the Google sheet
-The form's class must be gform, i.e. <form class="gform">
+<br/>
+The form's class must be gform //class="gform"//
 </h4>
